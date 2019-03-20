@@ -54,12 +54,12 @@ medium: medium
 email: sandeepmendiratta@gmail.com
 
 authors:
-    johndoe:
+    sandeepmendiratta:
         name: Sandeep Mendiratta
         bio: Cloud
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: 
+        twitter:
     jamesfoster:
         name: James Foster
         bio: A Man who develops software with coffee
